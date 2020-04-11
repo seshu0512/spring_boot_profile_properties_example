@@ -1,0 +1,13 @@
+guru:
+  jms:
+    UserName: seshujms
+    Password: seshujmsppwd
+    dbUrl: ghijkl
+---
+spring:
+  profiles: de
+guru:
+  jms:
+    UserName: seshujms********
+    Password: seshujmsppwd*********
+    dbUrl: ghijkl*********
